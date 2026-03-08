@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**KillianeKeungueu/KillianeKeungueu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Killiane, a French AI and Data engineering student.
 
-Here are some ideas to get you started:
+🎓 Currently studying Artificial Intelligence and Data Science  
+📍 Based in Quebec / France  
+🔍 Looking for a 6-month internship starting July 2026 in AI / Data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I work with
+- Python
+- Machine Learning / Deep Learning
+- Computer Vision
+- Data Analysis
+- SQL
+
+### 🛠 Tools & Technologies
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow / PyTorch
+- Power BI
+- Git
+
+### 🚀 Projects
+- AI model for textile defect detection (Computer Vision)
+- Airbnb price prediction using data analysis
+- University navigation app
+- Stock management and sales analysis system
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/killiane-keungueu
+- Email: keungueukilliane@gmail.com
